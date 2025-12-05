@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: aqua;
+    background-image: url(RDT_20251105_1723566025403364800409742~2.jpg);
+    background-size: 500px;
+    background-repeat: repeat-y;
+    background-position: top right 500px;
+}
+p{
+    font-family: arial;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 3px 5px grey;
+    color: blue;
+}
